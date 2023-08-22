@@ -18,3 +18,4 @@
 Make sure to update this README.md file with the usual as in the HTML/CSS Module. Tag your instructor and supervisor.
 Feel free to create a file(s) as the need arises.
 Remember to add okechukwupromise638@gmail.com to review
+[VIEW LIVE SITE](https://chidinmaamara.github.io/Dimmy-Movie-Application/)
