@@ -1,4 +1,4 @@
-##This is a project template for LMTechub students. ##Few steps to get started
+## This is a project template for LMTechub students. ##Few steps to get started
 
 - Clone the repository in the created folder for your project using: "git clone git@github.com:promise-J/LMTechub_Javascript_Template.git ./"
 - Run rm -fr .git to destroy any previous git connection with the cloned remote repo
@@ -18,3 +18,5 @@
 Make sure to update this README.md file with the usual as in the HTML/CSS Module. Tag your instructor and supervisor.
 Feel free to create a file(s) as the need arises.
 Remember to add okechukwupromise638@gmail.com to review
+Your site is live at(https://chidinmaamara.github.io/Dimmy-Movie-Application/)
+
